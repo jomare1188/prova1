@@ -1,0 +1,960 @@
+########################################
+# Program: tcode
+# Rundate: Fri  1 Jul 2022 16:25:21
+# Commandline: tcode
+#    [-sequence] 1.fa
+# Report_format: table
+# Report_file: 1.tcode
+########################################
+
+#=======================================
+#
+# Sequence: 1.fa     from: 1   to: 2992
+# HitCount: 931
+#
+# Fickett TESTCODE statistic
+#
+#=======================================
+
+  Start     End  Strand   Score Estimation
+      1     200       +   0.473 Non-coding
+      4     203       +   0.473 Non-coding
+      7     206       +   0.495 Non-coding
+     10     209       +   0.488 Non-coding
+     13     212       +   0.739 Non-coding
+     16     215       +   0.740 No opinion
+     19     218       +   0.825 No opinion
+     22     221       +   0.823 No opinion
+     25     224       +   0.867 No opinion
+     28     227       +   0.937 No opinion
+     31     230       +   0.980 Coding    
+     34     233       +   0.980 Coding    
+     37     236       +   1.012 Coding    
+     40     239       +   0.901 No opinion
+     43     242       +   1.040 Coding    
+     46     245       +   0.955 Coding    
+     49     248       +   0.883 No opinion
+     52     251       +   0.863 No opinion
+     55     254       +   0.942 No opinion
+     58     257       +   1.135 Coding    
+     61     260       +   1.077 Coding    
+     64     263       +   1.108 Coding    
+     67     266       +   1.174 Coding    
+     70     269       +   1.129 Coding    
+     73     272       +   1.144 Coding    
+     76     275       +   1.165 Coding    
+     79     278       +   1.142 Coding    
+     82     281       +   1.147 Coding    
+     85     284       +   1.168 Coding    
+     88     287       +   1.191 Coding    
+     91     290       +   1.191 Coding    
+     94     293       +   1.185 Coding    
+     97     296       +   1.162 Coding    
+    100     299       +   1.191 Coding    
+    103     302       +   1.100 Coding    
+    106     305       +   1.081 Coding    
+    109     308       +   1.079 Coding    
+    112     311       +   1.079 Coding    
+    115     314       +   1.170 Coding    
+    118     317       +   1.191 Coding    
+    121     320       +   1.191 Coding    
+    124     323       +   1.100 Coding    
+    127     326       +   1.100 Coding    
+    130     329       +   1.118 Coding    
+    133     332       +   1.005 Coding    
+    136     335       +   1.148 Coding    
+    139     338       +   1.072 Coding    
+    142     341       +   1.127 Coding    
+    145     344       +   1.148 Coding    
+    148     347       +   1.010 Coding    
+    151     350       +   1.013 Coding    
+    154     353       +   1.010 Coding    
+    157     356       +   1.077 Coding    
+    160     359       +   1.010 Coding    
+    163     362       +   1.087 Coding    
+    166     365       +   1.084 Coding    
+    169     368       +   1.002 Coding    
+    172     371       +   1.081 Coding    
+    175     374       +   1.081 Coding    
+    178     377       +   1.133 Coding    
+    181     380       +   1.113 Coding    
+    184     383       +   0.994 Coding    
+    187     386       +   0.978 Coding    
+    190     389       +   0.909 No opinion
+    193     392       +   0.886 No opinion
+    196     395       +   0.844 No opinion
+    199     398       +   0.840 No opinion
+    202     401       +   0.798 No opinion
+    205     404       +   0.801 No opinion
+    208     407       +   0.810 No opinion
+    211     410       +   0.810 No opinion
+    214     413       +   0.805 No opinion
+    217     416       +   0.848 No opinion
+    220     419       +   0.892 No opinion
+    223     422       +   0.855 No opinion
+    226     425       +   0.821 No opinion
+    229     428       +   0.842 No opinion
+    232     431       +   0.751 No opinion
+    235     434       +   0.730 Non-coding
+    238     437       +   0.735 Non-coding
+    241     440       +   0.831 No opinion
+    244     443       +   0.735 Non-coding
+    247     446       +   0.920 No opinion
+    250     449       +   0.890 No opinion
+    253     452       +   0.902 No opinion
+    256     455       +   0.902 No opinion
+    259     458       +   0.902 No opinion
+    262     461       +   0.902 No opinion
+    265     464       +   0.829 No opinion
+    268     467       +   0.790 No opinion
+    271     470       +   0.836 No opinion
+    274     473       +   0.920 No opinion
+    277     476       +   0.930 No opinion
+    280     479       +   0.740 Non-coding
+    283     482       +   0.794 No opinion
+    286     485       +   0.802 No opinion
+    289     488       +   0.958 Coding    
+    292     491       +   0.929 No opinion
+    295     494       +   0.785 No opinion
+    298     497       +   0.883 No opinion
+    301     500       +   0.901 No opinion
+    304     503       +   0.879 No opinion
+    307     506       +   0.833 No opinion
+    310     509       +   0.801 No opinion
+    313     512       +   0.832 No opinion
+    316     515       +   0.871 No opinion
+    319     518       +   0.738 Non-coding
+    322     521       +   0.883 No opinion
+    325     524       +   0.915 No opinion
+    328     527       +   0.853 No opinion
+    331     530       +   0.881 No opinion
+    334     533       +   0.887 No opinion
+    337     536       +   1.029 Coding    
+    340     539       +   1.023 Coding    
+    343     542       +   1.081 Coding    
+    346     545       +   0.985 Coding    
+    349     548       +   0.983 Coding    
+    352     551       +   1.002 Coding    
+    355     554       +   1.038 Coding    
+    358     557       +   0.939 No opinion
+    361     560       +   0.916 No opinion
+    364     563       +   0.948 No opinion
+    367     566       +   0.880 No opinion
+    370     569       +   0.993 Coding    
+    373     572       +   0.980 Coding    
+    376     575       +   1.133 Coding    
+    379     578       +   1.055 Coding    
+    382     581       +   1.056 Coding    
+    385     584       +   1.031 Coding    
+    388     587       +   1.105 Coding    
+    391     590       +   1.047 Coding    
+    394     593       +   1.022 Coding    
+    397     596       +   0.931 No opinion
+    400     599       +   1.022 Coding    
+    403     602       +   1.071 Coding    
+    406     605       +   1.070 Coding    
+    409     608       +   0.994 Coding    
+    412     611       +   1.093 Coding    
+    415     614       +   0.984 Coding    
+    418     617       +   1.075 Coding    
+    421     620       +   1.062 Coding    
+    424     623       +   1.021 Coding    
+    427     626       +   1.029 Coding    
+    430     629       +   0.959 Coding    
+    433     632       +   0.912 No opinion
+    436     635       +   1.040 Coding    
+    439     638       +   1.043 Coding    
+    442     641       +   1.071 Coding    
+    445     644       +   1.086 Coding    
+    448     647       +   1.049 Coding    
+    451     650       +   1.030 Coding    
+    454     653       +   0.939 No opinion
+    457     656       +   0.998 Coding    
+    460     659       +   0.919 No opinion
+    463     662       +   0.913 No opinion
+    466     665       +   0.952 Coding    
+    469     668       +   0.834 No opinion
+    472     671       +   0.953 Coding    
+    475     674       +   0.884 No opinion
+    478     677       +   0.858 No opinion
+    481     680       +   0.836 No opinion
+    484     683       +   0.854 No opinion
+    487     686       +   0.853 No opinion
+    490     689       +   0.874 No opinion
+    493     692       +   0.804 No opinion
+    496     695       +   0.803 No opinion
+    499     698       +   0.801 No opinion
+    502     701       +   0.579 Non-coding
+    505     704       +   0.587 Non-coding
+    508     707       +   0.563 Non-coding
+    511     710       +   0.557 Non-coding
+    514     713       +   0.675 Non-coding
+    517     716       +   0.643 Non-coding
+    520     719       +   0.611 Non-coding
+    523     722       +   0.583 Non-coding
+    526     725       +   0.639 Non-coding
+    529     728       +   0.638 Non-coding
+    532     731       +   0.545 Non-coding
+    535     734       +   0.694 Non-coding
+    538     737       +   0.802 No opinion
+    541     740       +   0.808 No opinion
+    544     743       +   0.755 No opinion
+    547     746       +   0.653 Non-coding
+    550     749       +   0.723 Non-coding
+    553     752       +   0.678 Non-coding
+    556     755       +   0.736 Non-coding
+    559     758       +   0.779 No opinion
+    562     761       +   0.738 Non-coding
+    565     764       +   0.848 No opinion
+    568     767       +   0.878 No opinion
+    571     770       +   0.829 No opinion
+    574     773       +   0.753 No opinion
+    577     776       +   0.765 No opinion
+    580     779       +   0.686 Non-coding
+    583     782       +   0.755 No opinion
+    586     785       +   0.721 Non-coding
+    589     788       +   0.769 No opinion
+    592     791       +   0.847 No opinion
+    595     794       +   0.722 Non-coding
+    598     797       +   0.721 Non-coding
+    601     800       +   0.790 No opinion
+    604     803       +   0.830 No opinion
+    607     806       +   0.870 No opinion
+    610     809       +   0.853 No opinion
+    613     812       +   0.880 No opinion
+    616     815       +   0.844 No opinion
+    619     818       +   0.844 No opinion
+    622     821       +   0.925 No opinion
+    625     824       +   0.844 No opinion
+    628     827       +   0.844 No opinion
+    631     830       +   0.847 No opinion
+    634     833       +   0.779 No opinion
+    637     836       +   0.759 No opinion
+    640     839       +   0.738 Non-coding
+    643     842       +   0.878 No opinion
+    646     845       +   0.845 No opinion
+    649     848       +   0.836 No opinion
+    652     851       +   0.830 No opinion
+    655     854       +   0.755 No opinion
+    658     857       +   0.753 No opinion
+    661     860       +   0.762 No opinion
+    664     863       +   0.866 No opinion
+    667     866       +   0.928 No opinion
+    670     869       +   0.876 No opinion
+    673     872       +   0.876 No opinion
+    676     875       +   0.828 No opinion
+    679     878       +   0.905 No opinion
+    682     881       +   0.854 No opinion
+    685     884       +   0.926 No opinion
+    688     887       +   0.944 No opinion
+    691     890       +   1.007 Coding    
+    694     893       +   1.019 Coding    
+    697     896       +   1.084 Coding    
+    700     899       +   1.076 Coding    
+    703     902       +   1.085 Coding    
+    706     905       +   1.085 Coding    
+    709     908       +   1.112 Coding    
+    712     911       +   1.112 Coding    
+    715     914       +   1.132 Coding    
+    718     917       +   1.132 Coding    
+    721     920       +   1.105 Coding    
+    724     923       +   1.105 Coding    
+    727     926       +   1.153 Coding    
+    730     929       +   1.152 Coding    
+    733     932       +   1.132 Coding    
+    736     935       +   1.099 Coding    
+    739     938       +   1.131 Coding    
+    742     941       +   1.016 Coding    
+    745     944       +   1.043 Coding    
+    748     947       +   1.043 Coding    
+    751     950       +   0.987 Coding    
+    754     953       +   1.027 Coding    
+    757     956       +   1.043 Coding    
+    760     959       +   0.949 No opinion
+    763     962       +   1.004 Coding    
+    766     965       +   0.937 No opinion
+    769     968       +   1.018 Coding    
+    772     971       +   0.993 Coding    
+    775     974       +   1.024 Coding    
+    778     977       +   1.020 Coding    
+    781     980       +   0.896 No opinion
+    784     983       +   0.994 Coding    
+    787     986       +   0.989 Coding    
+    790     989       +   0.973 Coding    
+    793     992       +   1.024 Coding    
+    796     995       +   0.908 No opinion
+    799     998       +   0.908 No opinion
+    802    1001       +   1.028 Coding    
+    805    1004       +   0.937 No opinion
+    808    1007       +   0.882 No opinion
+    811    1010       +   1.032 Coding    
+    814    1013       +   0.914 No opinion
+    817    1016       +   0.849 No opinion
+    820    1019       +   0.774 No opinion
+    823    1022       +   0.718 Non-coding
+    826    1025       +   0.796 No opinion
+    829    1028       +   0.675 Non-coding
+    832    1031       +   0.867 No opinion
+    835    1034       +   0.731 Non-coding
+    838    1037       +   0.723 Non-coding
+    841    1040       +   0.756 No opinion
+    844    1043       +   0.766 No opinion
+    847    1046       +   0.842 No opinion
+    850    1049       +   0.782 No opinion
+    853    1052       +   0.788 No opinion
+    856    1055       +   0.815 No opinion
+    859    1058       +   0.782 No opinion
+    862    1061       +   0.785 No opinion
+    865    1064       +   0.717 Non-coding
+    868    1067       +   0.758 No opinion
+    871    1070       +   0.750 No opinion
+    874    1073       +   0.778 No opinion
+    877    1076       +   0.633 Non-coding
+    880    1079       +   0.745 No opinion
+    883    1082       +   0.605 Non-coding
+    886    1085       +   0.669 Non-coding
+    889    1088       +   0.802 No opinion
+    892    1091       +   0.714 Non-coding
+    895    1094       +   0.735 Non-coding
+    898    1097       +   0.693 Non-coding
+    901    1100       +   0.763 No opinion
+    904    1103       +   0.638 Non-coding
+    907    1106       +   0.697 Non-coding
+    910    1109       +   0.842 No opinion
+    913    1112       +   0.955 Coding    
+    916    1115       +   0.935 No opinion
+    919    1118       +   0.891 No opinion
+    922    1121       +   0.891 No opinion
+    925    1124       +   0.978 Coding    
+    928    1127       +   0.931 No opinion
+    931    1130       +   0.922 No opinion
+    934    1133       +   0.956 Coding    
+    937    1136       +   0.933 No opinion
+    940    1139       +   0.951 Coding    
+    943    1142       +   0.852 No opinion
+    946    1145       +   0.795 No opinion
+    949    1148       +   0.795 No opinion
+    952    1151       +   0.726 Non-coding
+    955    1154       +   0.791 No opinion
+    958    1157       +   0.881 No opinion
+    961    1160       +   0.881 No opinion
+    964    1163       +   0.828 No opinion
+    967    1166       +   0.834 No opinion
+    970    1169       +   0.910 No opinion
+    973    1172       +   0.892 No opinion
+    976    1175       +   0.955 Coding    
+    979    1178       +   0.976 Coding    
+    982    1181       +   0.876 No opinion
+    985    1184       +   0.849 No opinion
+    988    1187       +   0.844 No opinion
+    991    1190       +   0.735 Non-coding
+    994    1193       +   0.824 No opinion
+    997    1196       +   0.861 No opinion
+   1000    1199       +   0.893 No opinion
+   1003    1202       +   0.882 No opinion
+   1006    1205       +   0.815 No opinion
+   1009    1208       +   0.829 No opinion
+   1012    1211       +   0.828 No opinion
+   1015    1214       +   0.888 No opinion
+   1018    1217       +   0.777 No opinion
+   1021    1220       +   0.869 No opinion
+   1024    1223       +   0.889 No opinion
+   1027    1226       +   0.833 No opinion
+   1030    1229       +   0.859 No opinion
+   1033    1232       +   0.847 No opinion
+   1036    1235       +   0.913 No opinion
+   1039    1238       +   0.841 No opinion
+   1042    1241       +   0.807 No opinion
+   1045    1244       +   0.887 No opinion
+   1048    1247       +   0.946 No opinion
+   1051    1250       +   0.920 No opinion
+   1054    1253       +   0.864 No opinion
+   1057    1256       +   0.858 No opinion
+   1060    1259       +   0.858 No opinion
+   1063    1262       +   0.858 No opinion
+   1066    1265       +   0.863 No opinion
+   1069    1268       +   0.887 No opinion
+   1072    1271       +   0.892 No opinion
+   1075    1274       +   0.864 No opinion
+   1078    1277       +   0.859 No opinion
+   1081    1280       +   0.859 No opinion
+   1084    1283       +   0.859 No opinion
+   1087    1286       +   0.859 No opinion
+   1090    1289       +   0.851 No opinion
+   1093    1292       +   0.874 No opinion
+   1096    1295       +   0.879 No opinion
+   1099    1298       +   0.848 No opinion
+   1102    1301       +   0.894 No opinion
+   1105    1304       +   0.922 No opinion
+   1108    1307       +   0.901 No opinion
+   1111    1310       +   0.867 No opinion
+   1114    1313       +   0.807 No opinion
+   1117    1316       +   0.832 No opinion
+   1120    1319       +   0.832 No opinion
+   1123    1322       +   0.853 No opinion
+   1126    1325       +   0.834 No opinion
+   1129    1328       +   0.840 No opinion
+   1132    1331       +   0.875 No opinion
+   1135    1334       +   0.880 No opinion
+   1138    1337       +   0.821 No opinion
+   1141    1340       +   0.840 No opinion
+   1144    1343       +   0.795 No opinion
+   1147    1346       +   0.820 No opinion
+   1150    1349       +   0.840 No opinion
+   1153    1352       +   0.912 No opinion
+   1156    1355       +   0.906 No opinion
+   1159    1358       +   0.807 No opinion
+   1162    1361       +   0.737 Non-coding
+   1165    1364       +   0.737 Non-coding
+   1168    1367       +   0.761 No opinion
+   1171    1370       +   0.731 Non-coding
+   1174    1373       +   0.794 No opinion
+   1177    1376       +   0.711 Non-coding
+   1180    1379       +   0.711 Non-coding
+   1183    1382       +   0.886 No opinion
+   1186    1385       +   0.837 No opinion
+   1189    1388       +   0.749 No opinion
+   1192    1391       +   0.683 Non-coding
+   1195    1394       +   0.716 Non-coding
+   1198    1397       +   0.754 No opinion
+   1201    1400       +   0.859 No opinion
+   1204    1403       +   0.794 No opinion
+   1207    1406       +   0.803 No opinion
+   1210    1409       +   0.810 No opinion
+   1213    1412       +   0.810 No opinion
+   1216    1415       +   0.815 No opinion
+   1219    1418       +   0.750 No opinion
+   1222    1421       +   0.756 No opinion
+   1225    1424       +   0.749 No opinion
+   1228    1427       +   0.873 No opinion
+   1231    1430       +   0.810 No opinion
+   1234    1433       +   0.835 No opinion
+   1237    1436       +   0.753 No opinion
+   1240    1439       +   0.821 No opinion
+   1243    1442       +   0.753 No opinion
+   1246    1445       +   0.739 Non-coding
+   1249    1448       +   0.850 No opinion
+   1252    1451       +   0.850 No opinion
+   1255    1454       +   0.751 No opinion
+   1258    1457       +   0.817 No opinion
+   1261    1460       +   0.723 Non-coding
+   1264    1463       +   0.754 No opinion
+   1267    1466       +   0.699 Non-coding
+   1270    1469       +   0.733 Non-coding
+   1273    1472       +   0.721 Non-coding
+   1276    1475       +   0.721 Non-coding
+   1279    1478       +   0.884 No opinion
+   1282    1481       +   0.790 No opinion
+   1285    1484       +   0.936 No opinion
+   1288    1487       +   0.810 No opinion
+   1291    1490       +   0.796 No opinion
+   1294    1493       +   0.796 No opinion
+   1297    1496       +   0.907 No opinion
+   1300    1499       +   0.839 No opinion
+   1303    1502       +   0.867 No opinion
+   1306    1505       +   0.815 No opinion
+   1309    1508       +   0.728 Non-coding
+   1312    1511       +   0.696 Non-coding
+   1315    1514       +   0.868 No opinion
+   1318    1517       +   0.841 No opinion
+   1321    1520       +   0.726 Non-coding
+   1324    1523       +   0.804 No opinion
+   1327    1526       +   0.903 No opinion
+   1330    1529       +   0.751 No opinion
+   1333    1532       +   0.628 Non-coding
+   1336    1535       +   0.601 Non-coding
+   1339    1538       +   0.714 Non-coding
+   1342    1541       +   0.580 Non-coding
+   1345    1544       +   0.580 Non-coding
+   1348    1547       +   0.579 Non-coding
+   1351    1550       +   0.606 Non-coding
+   1354    1553       +   0.604 Non-coding
+   1357    1556       +   0.693 Non-coding
+   1360    1559       +   0.709 Non-coding
+   1363    1562       +   0.561 Non-coding
+   1366    1565       +   0.540 Non-coding
+   1369    1568       +   0.551 Non-coding
+   1372    1571       +   0.551 Non-coding
+   1375    1574       +   0.572 Non-coding
+   1378    1577       +   0.567 Non-coding
+   1381    1580       +   0.515 Non-coding
+   1384    1583       +   0.556 Non-coding
+   1387    1586       +   0.579 Non-coding
+   1390    1589       +   0.655 Non-coding
+   1393    1592       +   0.704 Non-coding
+   1396    1595       +   0.712 Non-coding
+   1399    1598       +   0.712 Non-coding
+   1402    1601       +   0.719 Non-coding
+   1405    1604       +   0.647 Non-coding
+   1408    1607       +   0.670 Non-coding
+   1411    1610       +   0.656 Non-coding
+   1414    1613       +   0.597 Non-coding
+   1417    1616       +   0.596 Non-coding
+   1420    1619       +   0.710 Non-coding
+   1423    1622       +   0.613 Non-coding
+   1426    1625       +   0.603 Non-coding
+   1429    1628       +   0.608 Non-coding
+   1432    1631       +   0.607 Non-coding
+   1435    1634       +   0.625 Non-coding
+   1438    1637       +   0.592 Non-coding
+   1441    1640       +   0.630 Non-coding
+   1444    1643       +   0.625 Non-coding
+   1447    1646       +   0.628 Non-coding
+   1450    1649       +   0.630 Non-coding
+   1453    1652       +   0.623 Non-coding
+   1456    1655       +   0.611 Non-coding
+   1459    1658       +   0.483 Non-coding
+   1462    1661       +   0.483 Non-coding
+   1465    1664       +   0.596 Non-coding
+   1468    1667       +   0.596 Non-coding
+   1471    1670       +   0.595 Non-coding
+   1474    1673       +   0.595 Non-coding
+   1477    1676       +   0.564 Non-coding
+   1480    1679       +   0.646 Non-coding
+   1483    1682       +   0.641 Non-coding
+   1486    1685       +   0.673 Non-coding
+   1489    1688       +   0.650 Non-coding
+   1492    1691       +   0.594 Non-coding
+   1495    1694       +   0.600 Non-coding
+   1498    1697       +   0.594 Non-coding
+   1501    1700       +   0.594 Non-coding
+   1504    1703       +   0.628 Non-coding
+   1507    1706       +   0.620 Non-coding
+   1510    1709       +   0.703 Non-coding
+   1513    1712       +   0.806 No opinion
+   1516    1715       +   0.796 No opinion
+   1519    1718       +   0.647 Non-coding
+   1522    1721       +   0.547 Non-coding
+   1525    1724       +   0.799 No opinion
+   1528    1727       +   0.799 No opinion
+   1531    1730       +   0.783 No opinion
+   1534    1733       +   0.877 No opinion
+   1537    1736       +   0.848 No opinion
+   1540    1739       +   0.795 No opinion
+   1543    1742       +   0.800 No opinion
+   1546    1745       +   0.822 No opinion
+   1549    1748       +   0.843 No opinion
+   1552    1751       +   0.967 Coding    
+   1555    1754       +   0.934 No opinion
+   1558    1757       +   0.902 No opinion
+   1561    1760       +   0.902 No opinion
+   1564    1763       +   0.945 No opinion
+   1567    1766       +   0.939 No opinion
+   1570    1769       +   0.923 No opinion
+   1573    1772       +   0.774 No opinion
+   1576    1775       +   0.865 No opinion
+   1579    1778       +   0.844 No opinion
+   1582    1781       +   0.772 No opinion
+   1585    1784       +   0.772 No opinion
+   1588    1787       +   0.821 No opinion
+   1591    1790       +   0.953 Coding    
+   1594    1793       +   0.858 No opinion
+   1597    1796       +   0.881 No opinion
+   1600    1799       +   1.003 Coding    
+   1603    1802       +   0.914 No opinion
+   1606    1805       +   0.893 No opinion
+   1609    1808       +   0.807 No opinion
+   1612    1811       +   0.867 No opinion
+   1615    1814       +   0.836 No opinion
+   1618    1817       +   0.668 Non-coding
+   1621    1820       +   0.668 Non-coding
+   1624    1823       +   0.636 Non-coding
+   1627    1826       +   0.618 Non-coding
+   1630    1829       +   0.663 Non-coding
+   1633    1832       +   0.659 Non-coding
+   1636    1835       +   0.642 Non-coding
+   1639    1838       +   0.741 No opinion
+   1642    1841       +   0.783 No opinion
+   1645    1844       +   0.804 No opinion
+   1648    1847       +   0.766 No opinion
+   1651    1850       +   0.856 No opinion
+   1654    1853       +   0.848 No opinion
+   1657    1856       +   0.814 No opinion
+   1660    1859       +   0.820 No opinion
+   1663    1862       +   0.828 No opinion
+   1666    1865       +   0.778 No opinion
+   1669    1868       +   0.890 No opinion
+   1672    1871       +   0.890 No opinion
+   1675    1874       +   0.940 No opinion
+   1678    1877       +   1.000 Coding    
+   1681    1880       +   0.887 No opinion
+   1684    1883       +   0.845 No opinion
+   1687    1886       +   0.855 No opinion
+   1690    1889       +   0.855 No opinion
+   1693    1892       +   0.861 No opinion
+   1696    1895       +   0.861 No opinion
+   1699    1898       +   0.916 No opinion
+   1702    1901       +   0.916 No opinion
+   1705    1904       +   0.893 No opinion
+   1708    1907       +   0.887 No opinion
+   1711    1910       +   0.952 Coding    
+   1714    1913       +   1.045 Coding    
+   1717    1916       +   0.933 No opinion
+   1720    1919       +   1.065 Coding    
+   1723    1922       +   0.968 Coding    
+   1726    1925       +   1.058 Coding    
+   1729    1928       +   0.946 No opinion
+   1732    1931       +   0.990 Coding    
+   1735    1934       +   0.956 Coding    
+   1738    1937       +   0.900 No opinion
+   1741    1940       +   0.874 No opinion
+   1744    1943       +   0.907 No opinion
+   1747    1946       +   0.817 No opinion
+   1750    1949       +   0.745 No opinion
+   1753    1952       +   0.773 No opinion
+   1756    1955       +   0.745 No opinion
+   1759    1958       +   0.752 No opinion
+   1762    1961       +   0.768 No opinion
+   1765    1964       +   0.677 Non-coding
+   1768    1967       +   0.677 Non-coding
+   1771    1970       +   0.643 Non-coding
+   1774    1973       +   0.616 Non-coding
+   1777    1976       +   0.555 Non-coding
+   1780    1979       +   0.475 Non-coding
+   1783    1982       +   0.469 Non-coding
+   1786    1985       +   0.502 Non-coding
+   1789    1988       +   0.570 Non-coding
+   1792    1991       +   0.517 Non-coding
+   1795    1994       +   0.537 Non-coding
+   1798    1997       +   0.568 Non-coding
+   1801    2000       +   0.549 Non-coding
+   1804    2003       +   0.612 Non-coding
+   1807    2006       +   0.612 Non-coding
+   1810    2009       +   0.680 Non-coding
+   1813    2012       +   0.746 No opinion
+   1816    2015       +   0.754 No opinion
+   1819    2018       +   0.582 Non-coding
+   1822    2021       +   0.559 Non-coding
+   1825    2024       +   0.644 Non-coding
+   1828    2027       +   0.573 Non-coding
+   1831    2030       +   0.546 Non-coding
+   1834    2033       +   0.621 Non-coding
+   1837    2036       +   0.615 Non-coding
+   1840    2039       +   0.627 Non-coding
+   1843    2042       +   0.579 Non-coding
+   1846    2045       +   0.576 Non-coding
+   1849    2048       +   0.540 Non-coding
+   1852    2051       +   0.489 Non-coding
+   1855    2054       +   0.473 Non-coding
+   1858    2057       +   0.473 Non-coding
+   1861    2060       +   0.534 Non-coding
+   1864    2063       +   0.549 Non-coding
+   1867    2066       +   0.674 Non-coding
+   1870    2069       +   0.507 Non-coding
+   1873    2072       +   0.599 Non-coding
+   1876    2075       +   0.646 Non-coding
+   1879    2078       +   0.560 Non-coding
+   1882    2081       +   0.675 Non-coding
+   1885    2084       +   0.675 Non-coding
+   1888    2087       +   0.587 Non-coding
+   1891    2090       +   0.564 Non-coding
+   1894    2093       +   0.522 Non-coding
+   1897    2096       +   0.571 Non-coding
+   1900    2099       +   0.668 Non-coding
+   1903    2102       +   0.556 Non-coding
+   1906    2105       +   0.587 Non-coding
+   1909    2108       +   0.603 Non-coding
+   1912    2111       +   0.710 Non-coding
+   1915    2114       +   0.630 Non-coding
+   1918    2117       +   0.749 No opinion
+   1921    2120       +   0.749 No opinion
+   1924    2123       +   0.739 Non-coding
+   1927    2126       +   0.754 No opinion
+   1930    2129       +   0.706 Non-coding
+   1933    2132       +   0.572 Non-coding
+   1936    2135       +   0.540 Non-coding
+   1939    2138       +   0.589 Non-coding
+   1942    2141       +   0.551 Non-coding
+   1945    2144       +   0.589 Non-coding
+   1948    2147       +   0.593 Non-coding
+   1951    2150       +   0.580 Non-coding
+   1954    2153       +   0.585 Non-coding
+   1957    2156       +   0.580 Non-coding
+   1960    2159       +   0.585 Non-coding
+   1963    2162       +   0.585 Non-coding
+   1966    2165       +   0.601 Non-coding
+   1969    2168       +   0.657 Non-coding
+   1972    2171       +   0.649 Non-coding
+   1975    2174       +   0.681 Non-coding
+   1978    2177       +   0.784 No opinion
+   1981    2180       +   0.813 No opinion
+   1984    2183       +   0.813 No opinion
+   1987    2186       +   0.677 Non-coding
+   1990    2189       +   0.825 No opinion
+   1993    2192       +   0.845 No opinion
+   1996    2195       +   0.809 No opinion
+   1999    2198       +   0.710 Non-coding
+   2002    2201       +   0.681 Non-coding
+   2005    2204       +   0.651 Non-coding
+   2008    2207       +   0.702 Non-coding
+   2011    2210       +   0.731 Non-coding
+   2014    2213       +   0.734 Non-coding
+   2017    2216       +   0.729 Non-coding
+   2020    2219       +   0.729 Non-coding
+   2023    2222       +   0.731 Non-coding
+   2026    2225       +   0.684 Non-coding
+   2029    2228       +   0.707 Non-coding
+   2032    2231       +   0.783 No opinion
+   2035    2234       +   0.796 No opinion
+   2038    2237       +   0.740 No opinion
+   2041    2240       +   0.821 No opinion
+   2044    2243       +   0.817 No opinion
+   2047    2246       +   0.737 Non-coding
+   2050    2249       +   0.764 No opinion
+   2053    2252       +   0.848 No opinion
+   2056    2255       +   0.720 Non-coding
+   2059    2258       +   0.775 No opinion
+   2062    2261       +   0.876 No opinion
+   2065    2264       +   0.876 No opinion
+   2068    2267       +   0.876 No opinion
+   2071    2270       +   0.832 No opinion
+   2074    2273       +   0.802 No opinion
+   2077    2276       +   0.628 Non-coding
+   2080    2279       +   0.682 Non-coding
+   2083    2282       +   0.655 Non-coding
+   2086    2285       +   0.656 Non-coding
+   2089    2288       +   0.662 Non-coding
+   2092    2291       +   0.651 Non-coding
+   2095    2294       +   0.823 No opinion
+   2098    2297       +   0.889 No opinion
+   2101    2300       +   0.860 No opinion
+   2104    2303       +   0.986 Coding    
+   2107    2306       +   1.034 Coding    
+   2110    2309       +   0.956 Coding    
+   2113    2312       +   0.947 No opinion
+   2116    2315       +   0.959 Coding    
+   2119    2318       +   0.923 No opinion
+   2122    2321       +   0.985 Coding    
+   2125    2324       +   0.950 No opinion
+   2128    2327       +   1.018 Coding    
+   2131    2330       +   1.005 Coding    
+   2134    2333       +   1.005 Coding    
+   2137    2336       +   0.985 Coding    
+   2140    2339       +   0.890 No opinion
+   2143    2342       +   0.889 No opinion
+   2146    2345       +   0.890 No opinion
+   2149    2348       +   1.003 Coding    
+   2152    2351       +   0.931 No opinion
+   2155    2354       +   0.955 Coding    
+   2158    2357       +   0.863 No opinion
+   2161    2360       +   0.857 No opinion
+   2164    2363       +   1.013 Coding    
+   2167    2366       +   1.060 Coding    
+   2170    2369       +   0.987 Coding    
+   2173    2372       +   0.987 Coding    
+   2176    2375       +   0.864 No opinion
+   2179    2378       +   1.055 Coding    
+   2182    2381       +   1.066 Coding    
+   2185    2384       +   1.027 Coding    
+   2188    2387       +   1.060 Coding    
+   2191    2390       +   1.060 Coding    
+   2194    2393       +   0.875 No opinion
+   2197    2396       +   0.903 No opinion
+   2200    2399       +   0.922 No opinion
+   2203    2402       +   0.992 Coding    
+   2206    2405       +   0.973 Coding    
+   2209    2408       +   0.961 Coding    
+   2212    2411       +   0.973 Coding    
+   2215    2414       +   1.008 Coding    
+   2218    2417       +   0.949 No opinion
+   2221    2420       +   1.096 Coding    
+   2224    2423       +   1.096 Coding    
+   2227    2426       +   1.172 Coding    
+   2230    2429       +   1.115 Coding    
+   2233    2432       +   1.115 Coding    
+   2236    2435       +   1.120 Coding    
+   2239    2438       +   1.118 Coding    
+   2242    2441       +   1.118 Coding    
+   2245    2444       +   1.113 Coding    
+   2248    2447       +   1.119 Coding    
+   2251    2450       +   1.110 Coding    
+   2254    2453       +   1.119 Coding    
+   2257    2456       +   1.109 Coding    
+   2260    2459       +   1.115 Coding    
+   2263    2462       +   1.115 Coding    
+   2266    2465       +   1.118 Coding    
+   2269    2468       +   1.057 Coding    
+   2272    2471       +   1.113 Coding    
+   2275    2474       +   1.116 Coding    
+   2278    2477       +   1.116 Coding    
+   2281    2480       +   1.136 Coding    
+   2284    2483       +   1.119 Coding    
+   2287    2486       +   1.119 Coding    
+   2290    2489       +   1.119 Coding    
+   2293    2492       +   1.037 Coding    
+   2296    2495       +   1.037 Coding    
+   2299    2498       +   1.118 Coding    
+   2302    2501       +   1.106 Coding    
+   2305    2504       +   1.105 Coding    
+   2308    2507       +   1.099 Coding    
+   2311    2510       +   1.095 Coding    
+   2314    2513       +   1.046 Coding    
+   2317    2516       +   0.988 Coding    
+   2320    2519       +   0.957 Coding    
+   2323    2522       +   0.977 Coding    
+   2326    2525       +   1.032 Coding    
+   2329    2528       +   1.011 Coding    
+   2332    2531       +   0.992 Coding    
+   2335    2534       +   0.992 Coding    
+   2338    2537       +   1.023 Coding    
+   2341    2540       +   0.988 Coding    
+   2344    2543       +   1.030 Coding    
+   2347    2546       +   1.036 Coding    
+   2350    2549       +   1.070 Coding    
+   2353    2552       +   1.070 Coding    
+   2356    2555       +   1.034 Coding    
+   2359    2558       +   1.015 Coding    
+   2362    2561       +   0.969 Coding    
+   2365    2564       +   1.071 Coding    
+   2368    2567       +   1.084 Coding    
+   2371    2570       +   1.146 Coding    
+   2374    2573       +   1.158 Coding    
+   2377    2576       +   1.178 Coding    
+   2380    2579       +   1.184 Coding    
+   2383    2582       +   1.146 Coding    
+   2386    2585       +   1.146 Coding    
+   2389    2588       +   1.146 Coding    
+   2392    2591       +   1.178 Coding    
+   2395    2594       +   1.134 Coding    
+   2398    2597       +   1.103 Coding    
+   2401    2600       +   1.085 Coding    
+   2404    2603       +   1.097 Coding    
+   2407    2606       +   1.117 Coding    
+   2410    2609       +   0.935 No opinion
+   2413    2612       +   0.842 No opinion
+   2416    2615       +   0.827 No opinion
+   2419    2618       +   0.854 No opinion
+   2422    2621       +   0.854 No opinion
+   2425    2624       +   0.827 No opinion
+   2428    2627       +   0.917 No opinion
+   2431    2630       +   0.934 No opinion
+   2434    2633       +   0.920 No opinion
+   2437    2636       +   0.888 No opinion
+   2440    2639       +   0.849 No opinion
+   2443    2642       +   0.961 Coding    
+   2446    2645       +   0.955 Coding    
+   2449    2648       +   0.982 Coding    
+   2452    2651       +   0.976 Coding    
+   2455    2654       +   0.976 Coding    
+   2458    2657       +   0.904 No opinion
+   2461    2660       +   0.976 Coding    
+   2464    2663       +   0.899 No opinion
+   2467    2666       +   0.938 No opinion
+   2470    2669       +   0.964 Coding    
+   2473    2672       +   0.956 Coding    
+   2476    2675       +   0.957 Coding    
+   2479    2678       +   0.947 No opinion
+   2482    2681       +   0.966 Coding    
+   2485    2684       +   0.981 Coding    
+   2488    2687       +   0.987 Coding    
+   2491    2690       +   1.035 Coding    
+   2494    2693       +   0.951 Coding    
+   2497    2696       +   0.964 Coding    
+   2500    2699       +   0.996 Coding    
+   2503    2702       +   0.891 No opinion
+   2506    2705       +   0.914 No opinion
+   2509    2708       +   0.920 No opinion
+   2512    2711       +   0.916 No opinion
+   2515    2714       +   0.943 No opinion
+   2518    2717       +   0.883 No opinion
+   2521    2720       +   0.877 No opinion
+   2524    2723       +   0.849 No opinion
+   2527    2726       +   0.791 No opinion
+   2530    2729       +   0.821 No opinion
+   2533    2732       +   0.821 No opinion
+   2536    2735       +   0.803 No opinion
+   2539    2738       +   0.829 No opinion
+   2542    2741       +   0.870 No opinion
+   2545    2744       +   0.854 No opinion
+   2548    2747       +   0.815 No opinion
+   2551    2750       +   0.891 No opinion
+   2554    2753       +   0.917 No opinion
+   2557    2756       +   0.959 Coding    
+   2560    2759       +   0.947 No opinion
+   2563    2762       +   0.928 No opinion
+   2566    2765       +   0.891 No opinion
+   2569    2768       +   0.828 No opinion
+   2572    2771       +   0.892 No opinion
+   2575    2774       +   0.823 No opinion
+   2578    2777       +   0.903 No opinion
+   2581    2780       +   0.906 No opinion
+   2584    2783       +   0.832 No opinion
+   2587    2786       +   0.868 No opinion
+   2590    2789       +   0.900 No opinion
+   2593    2792       +   0.908 No opinion
+   2596    2795       +   0.859 No opinion
+   2599    2798       +   0.842 No opinion
+   2602    2801       +   0.823 No opinion
+   2605    2804       +   0.793 No opinion
+   2608    2807       +   0.796 No opinion
+   2611    2810       +   0.683 Non-coding
+   2614    2813       +   0.676 Non-coding
+   2617    2816       +   0.643 Non-coding
+   2620    2819       +   0.661 Non-coding
+   2623    2822       +   0.694 Non-coding
+   2626    2825       +   0.646 Non-coding
+   2629    2828       +   0.614 Non-coding
+   2632    2831       +   0.509 Non-coding
+   2635    2834       +   0.438 Non-coding
+   2638    2837       +   0.443 Non-coding
+   2641    2840       +   0.437 Non-coding
+   2644    2843       +   0.443 Non-coding
+   2647    2846       +   0.506 Non-coding
+   2650    2849       +   0.507 Non-coding
+   2653    2852       +   0.518 Non-coding
+   2656    2855       +   0.510 Non-coding
+   2659    2858       +   0.630 Non-coding
+   2662    2861       +   0.618 Non-coding
+   2665    2864       +   0.591 Non-coding
+   2668    2867       +   0.414 Non-coding
+   2671    2870       +   0.420 Non-coding
+   2674    2873       +   0.444 Non-coding
+   2677    2876       +   0.444 Non-coding
+   2680    2879       +   0.457 Non-coding
+   2683    2882       +   0.457 Non-coding
+   2686    2885       +   0.462 Non-coding
+   2689    2888       +   0.452 Non-coding
+   2692    2891       +   0.452 Non-coding
+   2695    2894       +   0.382 Non-coding
+   2698    2897       +   0.383 Non-coding
+   2701    2900       +   0.382 Non-coding
+   2704    2903       +   0.393 Non-coding
+   2707    2906       +   0.382 Non-coding
+   2710    2909       +   0.382 Non-coding
+   2713    2912       +   0.420 Non-coding
+   2716    2915       +   0.420 Non-coding
+   2719    2918       +   0.403 Non-coding
+   2722    2921       +   0.403 Non-coding
+   2725    2924       +   0.408 Non-coding
+   2728    2927       +   0.441 Non-coding
+   2731    2930       +   0.434 Non-coding
+   2734    2933       +   0.525 Non-coding
+   2737    2936       +   0.500 Non-coding
+   2740    2939       +   0.463 Non-coding
+   2743    2942       +   0.463 Non-coding
+   2746    2945       +   0.468 Non-coding
+   2749    2948       +   0.468 Non-coding
+   2752    2951       +   0.435 Non-coding
+   2755    2954       +   0.636 Non-coding
+   2758    2957       +   0.412 Non-coding
+   2761    2960       +   0.636 Non-coding
+   2764    2963       +   0.471 Non-coding
+   2767    2966       +   0.632 Non-coding
+   2770    2969       +   0.648 Non-coding
+   2773    2972       +   0.792 No opinion
+   2776    2975       +   0.761 No opinion
+   2779    2978       +   0.835 No opinion
+   2782    2981       +   0.759 No opinion
+   2785    2984       +   0.788 No opinion
+   2788    2987       +   0.710 Non-coding
+   2791    2990       +   0.842 No opinion
+
+#---------------------------------------
+#---------------------------------------
+
+#---------------------------------------
+# Total_sequences: 1
+# Total_length: 2992
+# Reported_sequences: 1
+# Reported_hitcount: 931
+#---------------------------------------

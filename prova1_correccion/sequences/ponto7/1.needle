@@ -1,0 +1,174 @@
+########################################
+# Program: needle
+# Rundate: Fri  1 Jul 2022 16:45:31
+# Commandline: needle
+#    -asequence ./../1.pep
+#    -bsequence ./../anajulia2.fasta
+#    -gapopen 6
+#    -gapextend 6
+#    -datafile protein_matrix
+# Align_format: srspair
+# Report_file: 1.needle
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 1.fa_1
+# 2: KAG7658385.1
+# Matrix: protein_matrix
+# Gap_penalty: 6.0
+# Extend_penalty: 6.0
+#
+# Length: 1741
+# Identity:       1/1741 ( 0.1%)
+# Similarity:     1/1741 ( 0.1%)
+# Gaps:        1739/1741 (99.9%)
+# Score: 3.0
+# 
+#
+#=======================================
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1       1 MSEVNVPVFCCWNGCIKDGTNGIYYEGSNYRMTTVKGKTKFNELLDHLYQ     50
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1      51 VTGLDRKRSKFGIIGRYPTDIQAFRVKYKPLPVVDDTSLETMLEITTKHP    100
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     101 YIKDIDLYLEVESTSVGVIDPATCSSPSDILGGSSKRQKTDIHVKLERET    150
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     151 DRNSESDGVVHLVDSSTLNKDSISGHVSKPCMSSLWLDDHDLRVGLCFKD    200
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     201 GDELKKAVDWCSLKAQQKCVVRETAKDEYIFECIRWKCKWSLGAARMKKH    250
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     251 GLVEIIKYTGPHTCHPIVPEDFKSEFETDEIERAVRYKPTQTIAELKKWW    300
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     301 KKKIGYELETSKEKAIKRVFGDWDQSVEDLPKLMSALCSSNGLLVDWKFD    350
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     351 LFPNPNFASFCVVFWAFPQSIEGFQHCRPLIVVDTKNLNCEYQLKLMIAS    400
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     401 GVDAANKYFPLAFAVTKEVSTDIWRWFLTGIREKVTQRKGLCLISSPHPD    450
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     451 IIAVVNESRSQWQEPWAYHRFCLNHFYSQFSRVFPSFCMGARIRRAGSTS    500
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     501 QKDEFVSYMNDIKEKNPEARKWLDQFPPNQWALAHDNGRRYGIMEINTKA    550
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     551 LFAVCNAFELAGHVVTGSVLLLFDELRSKFDKSFSCSRSSLNCGDVYTEP    600
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     601 VMDKLEEFRTTFVTYSYIVTPLDNNAFQVATALDKGECIVQLSDCSCTCG    650
+
+1.fa_1             0 --------------------------------------------------      0
+                                                                       
+KAG7658385.1     651 DFQRYKFPCLHALAVCKKLKFNPLQYVDDCYTLERLKRTYAAIFSHVPEM    700
+
+1.fa_1             1 -------------------------------------------LSSYRSR      7
+                                                                .|     
+KAG7658385.1     701 SAWSEASGVPRLLPPVIPPSPPPSPPTYVSGTKCRTTPLATEKKS-----    745
+
+1.fa_1             8 *THSKT*TLNSDTQN*DL*SFTQLKRRKTGNLEMGVAEKSLDLSEMEVIS     57
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1            58 PSLTISPVMLLLQVRSLMKTTTTVYREMRNIAFRNFITEKNIKKSIGPTE    107
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           108 ESP*IFVACFTTETRLILLP*SHKMPGSVQTQIHLSALLLSSERSSSAFG    157
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           158 T*YVSWR*WRW*RWNDRRKQSRNSRSFRPS*HFRNMRENGGVSSF*PFKS    207
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           208 VTVVYIL*RVEFQLLADG*SV*TWEFVTLKIPACAAAVAQLNNTFTLI*R    257
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           258 CCNLKGVIV*GRYNVTVSNESCPEFFKLVHDRLGVHIAAVKRTSATTKRL    307
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           308 VKLGSQFIK*KKHGTCHYMTSLLKCVTNCKQSFCIYLHDSISPTIVMSQS    357
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           358 PPILRELV*PFPSFWVLLFDVIHVGNKLILLTRGPSPPNASPQAEAWKNT    407
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           408 RELGVKMIQTEPVISPRFLPLRPRFVDNSNYVGVGTGNEAKAFPLCNLLS    457
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           458 DSSEKPTPNISRNFFSNRKGKWKIFVGCINS*GNHQFQLVLTVQVFGIHY    507
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           508 DQRSTVLKPFYRLWERPKHTTEGCKIRIRKKIILPVHKESIR*TKGRH*L    557
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           558 GKIFKTLIPISKNSFDSFLFR*PHIRSFKLIANFFFPPLLQL*NCLCGHI    607
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           608 PDRTFNLICFKL*FEIFWNNGMTSMWTSILDYLDKSVLFHSSGSK*PLAF    657
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           658 PSDALKDILVLCSLSYYTLLLSFKGTPVHCLLQLIAIFKAQSYSQVMIVK    707
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           708 PQTRHTRF*NMTRNGIFIQSAAINQVYHAI*F*VSIRLPL*LNMYIGLLS    757
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           758 FRRTTKNV*RR*TSSRINNSNGCRFHFQIQVNVFNIRMFGCNLKHSLQTS    807
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           808 VVHHGKRFILNPKRLNICRISTDYTKL*SLPI*PSNLIQMIQQFVKLSLS    857
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           858 LHSGHSIIGPFIVYAISAILDATVPATEHRNIYFRHEHNKPARSSKVKM*    907
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           908 TLGMQTLFSDVRVSPAV*GRQNDKKIKNSWAKITRPNYMFINNKPVHQ*W    957
+                                                                       
+KAG7658385.1     745 --------------------------------------------------    745
+
+1.fa_1           958 VTRLAWF*PD*IFTYK*T*TCLFPKSSSLTFRSS*SGHE*X    998
+                                                              
+KAG7658385.1     745 -----------------------------------------    745
+
+
+#---------------------------------------
+#---------------------------------------

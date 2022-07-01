@@ -1,0 +1,22 @@
+#
+# Output from 'compseq'
+#
+# The Expected frequencies are calculated on the (false) assumption that every
+# word has equal frequency.
+#
+# The input sequences are:
+#	1.fa
+
+
+Word size	1
+Total count	2992
+
+#
+# Word	Obs Count	Obs Frequency	Exp Frequency	Obs/Exp Frequency
+#
+A	924		0.3088235	0.2500000	1.2352941
+C	668		0.2232620	0.2500000	0.8930481
+G	576		0.1925134	0.2500000	0.7700535
+T	824		0.2754011	0.2500000	1.1016043
+
+Other	0		0.0000000	0.0000000	10000000000.0000000

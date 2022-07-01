@@ -1,0 +1,122 @@
+########################################
+# Program: needle
+# Rundate: Fri  1 Jul 2022 16:10:37
+# Commandline: needle
+#    -asequence ./../12.orf
+#    -bsequence ./../rafaela2.fasta
+#    -gapopen 6
+#    -gapextend 6
+#    -datafile protein_matrix
+# Align_format: srspair
+# Report_file: 12.needle
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 12.fa_1
+# 2: YP_009530027.1
+# Matrix: protein_matrix
+# Gap_penalty: 6.0
+# Extend_penalty: 6.0
+#
+# Length: 1072
+# Identity:    1046/1072 (97.6%)
+# Similarity:  1046/1072 (97.6%)
+# Gaps:           2/1072 ( 0.2%)
+# Score: 5182.0
+# 
+#
+#=======================================
+
+12.fa_1            1 KKMLGDGNGKMSTIPGFNQIQFEGFCRFIDQGLTEELYKFPKMEDTDQEI     50
+                       |||.||||||||||||||||||||||||||||||||||||.|||||||
+YP_009530027.      1 --MLGGGNGKMSTIPGFNQIQFEGFCRFIDQGLTEELYKFPKIEDTDQEI     48
+
+12.fa_1           51 EFQLFVETYQLAEPLIKERDAVYESLTYSSELYVSAGLIWKTSRDMQEQT    100
+                     |||||||||||.|||||||||||||||||||||||||||||||||||||.
+YP_009530027.     49 EFQLFVETYQLVEPLIKERDAVYESLTYSSELYVSAGLIWKTSRDMQEQI     98
+
+12.fa_1          101 IFIGNIPLMNSLGTSIVNGIYRIVINQILQSPGIYYRSELDHNGISVYTG    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+YP_009530027.     99 IFIGNIPLMNSLGTSIVNGIYRIVINQILQSPGIYYRSELDHNGISVYTG    148
+
+12.fa_1          151 TIISDWGGRLELEIDRKARIWARVSRKQKISILVLSSAMGSNLREILENV    200
+                     |.||||||||||||||||||||||||||||||||||||||||||||||||
+YP_009530027.    149 TVISDWGGRLELEIDRKARIWARVSRKQKISILVLSSAMGSNLREILENV    198
+
+12.fa_1          201 CYPEIFLSFLNDKEKKKIKSKENAILEFYQQFACVGGDPVFSESLCKELQ    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+YP_009530027.    199 CYPEIFLSFLNDKEKKKIKSKENAILEFYQQFACVGGDPVFSESLCKELQ    248
+
+12.fa_1          251 KKFFQQRCELGRIGRRNMNRRLNLDIPQNNTFLLPRDILAAADHLIGMKF    300
+                     ||||.|||||||||||||||||||||||||||||||||||||||||||||
+YP_009530027.    249 KKFFKQRCELGRIGRRNMNRRLNLDIPQNNTFLLPRDILAAADHLIGMKF    298
+
+12.fa_1          301 GMGILDDMNHLKNKRIRSVADLLQDQFGLALVRLENMVRGTMSGAIRHKL    350
+                     ||||||||||||||||||||||.|||||||||||||||||||.|||||||
+YP_009530027.    299 GMGILDDMNHLKNKRIRSVADLVQDQFGLALVRLENMVRGTMCGAIRHKL    348
+
+12.fa_1          351 IPTPQNLVTSTTLTTTFESFFGLHPLSQVLDRTNPLTQIVHGRKLSYLGP    400
+                     ||||||||||||||||.|||||||||||||||||||||||||||.|||||
+YP_009530027.    349 IPTPQNLVTSTTLTTTYESFFGLHPLSQVLDRTNPLTQIVHGRKSSYLGP    398
+
+12.fa_1          401 GGLTGRTASFRIRDIHPSHYGRICPIDTSEGINVGLIGSLSIHARIGPWG    450
+                     |||||||||||.||||||||||||||||||||||||||||.||||||.||
+YP_009530027.    399 GGLTGRTASFRVRDIHPSHYGRICPIDTSEGINVGLIGSLAIHARIGHWG    448
+
+12.fa_1          451 SLESPFYEISERSKKVRMLYLSPSRDEYYMVAAGNSLALNRGSQEEQVVP    500
+                     |||||||||||||||.||||||||||||||||||||||||||||||||||
+YP_009530027.    449 SLESPFYEISERSKKIRMLYLSPSRDEYYMVAAGNSLALNRGSQEEQVVP    498
+
+12.fa_1          501 ARYRQEFLTIEWEQVHLRNIFPFQYFSIGASLIPFIEHNDANRALMSSNM    550
+                     ||||||||||||||||.|||.|||||||||||||||||||||||||||||
+YP_009530027.    499 ARYRQEFLTIEWEQVHFRNIYPFQYFSIGASLIPFIEHNDANRALMSSNM    548
+
+12.fa_1          551 QRQAVPLSRSEKCIVGTGLESQVALDSGVPAIAEHEGKIVYTDTDKIILS    600
+                     |||||||||||||||||||||||||||||||||||||||.||||||||||
+YP_009530027.    549 QRQAVPLSRSEKCIVGTGLESQVALDSGVPAIAEHEGKIIYTDTDKIILS    598
+
+12.fa_1          601 GNGDTLSIPLVRYQRSNKNTCMHQKPQVARGKCIKKGQILADGAATVGGE    650
+                     |||||||||||.|||||||||||||||||||||||||||||||||||.||
+YP_009530027.    599 GNGDTLSIPLVIYQRSNKNTCMHQKPQVARGKCIKKGQILADGAATVDGE    648
+
+12.fa_1          651 LSLGKNVLVAYMPWEGYNFEDAVLINERLVYGDIYTSFHIRKYEIQTHVT    700
+                     ||||||||||||||||||.|||||||||||||||||||||||||||||||
+YP_009530027.    649 LSLGKNVLVAYMPWEGYNSEDAVLINERLVYGDIYTSFHIRKYEIQTHVT    698
+
+12.fa_1          701 SHGPERITNEIPHLEAHLLRNLDKKGVVMLGSWVETGDILVGKLTPQMAK    750
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+YP_009530027.    699 SHGPERITNEIPHLEAHLLRNLDKKGVVMLGSWVETGDILVGKLTPQMAK    748
+
+12.fa_1          751 ESSYAPEDRLLRAILGIQISTSKETCLKLPIGSRGRVIDVRWIQKKGGSS    800
+                     |||||||||||||||||||||||||||||||||||||||||||||.||||
+YP_009530027.    749 ESSYAPEDRLLRAILGIQISTSKETCLKLPIGSRGRVIDVRWIQKRGGSS    798
+
+12.fa_1          801 YNPETIRVYISQKREIKVGDKVAGRHGNKGIVSKILPRQDMPYLQDGRPV    850
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+YP_009530027.    799 YNPETIRVYISQKREIKVGDKVAGRHGNKGIVSKILPRQDMPYLQDGRPV    848
+
+12.fa_1          851 DMVFNPLGVPSRMNVGQIFECSLGLAGELLDRHYRIAPFDERYEQEASRK    900
+                     |||||||||||||||||||||||||||.|||||||.||||||||||||||
+YP_009530027.    849 DMVFNPLGVPSRMNVGQIFECSLGLAGGLLDRHYRLAPFDERYEQEASRK    898
+
+12.fa_1          901 LVFSELYEASKQTANPWVFEPEYPGKSRIFDGRTGDPFEQPVIIGKPYIL    950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+YP_009530027.    899 LVFSELYEASKQTANPWVFEPEYPGKSRIFDGRTGDPFEQPVIIGKPYIL    948
+
+12.fa_1          951 KLIHQVDDKIHGRCSGHYALVTQQPLRGRAKQGGQRVGEMEVWALEGFGV   1000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+YP_009530027.    949 KLIHQVDDKIHGRCSGHYALVTQQPLRGRAKQGGQRVGEMEVWALEGFGV    998
+
+12.fa_1         1001 AHILQEMLTYKSDHIRARQEVLGTTIIGGPIPKPEDAPESFRLLVRELRS   1050
+                     |||||||||||||||||||||||.||||||||||||||||||||||||||
+YP_009530027.    999 AHILQEMLTYKSDHIRARQEVLGATIIGGPIPKPEDAPESFRLLVRELRS   1048
+
+12.fa_1         1051 LALELNHFLVSEKNFQINRKDA   1072
+                     ||||||||||||||||||||||
+YP_009530027.   1049 LALELNHFLVSEKNFQINRKDA   1070
+
+
+#---------------------------------------
+#---------------------------------------
